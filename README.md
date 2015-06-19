@@ -2,10 +2,10 @@
 
 This includes:
 
-*jQuery
-*Bootstrap
-*Font Awesome
-*Heroku Deployment Config
+1. jQuery
+2. Bootstrap
+3. Font Awesome
+4. Heroku Deployment Config
 
 
 ### Getting Started
