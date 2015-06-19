@@ -1,11 +1,11 @@
 #Middleman Boilerplate
------------------------
+
 This includes:
 
-• jQuery
-• Bootstrap
-• Font Awesome
-• Heroku Deployment Config
+*jQuery
+*Bootstrap
+*Font Awesome
+*Heroku Deployment Config
 
 
 ### Getting Started
