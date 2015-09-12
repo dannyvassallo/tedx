@@ -47,6 +47,11 @@ Create a new app on heroku using heroku-cli. Pass in the following:
 heroku create YOUR-APP-NAME
 ```
 
+To add an existing repository:
+```shell
+heroku git:remote -a YOUR-APP-NAME
+```
+
 To deploy, commit all changes and pass in:
 ```shell
 git push heroku master
